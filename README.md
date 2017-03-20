@@ -1,1 +1,1 @@
-# TM1620_driver
+# TM1620 LED driver
